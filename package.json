@@ -1,0 +1,29 @@
+{
+  "name": "osm-webview-antago",
+  "version": "0.0.8",
+  "description": "Simple webview map",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "react-native",
+    "react",
+    "map",
+    "android",
+    "ios",
+    "mobile",
+    "webview",
+    "react-native-web"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cjvnjde/osm-webview-antago.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.29",
+    "react-native-webview": "2.0.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
